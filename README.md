@@ -11,6 +11,14 @@ Below are screenshots of the app along with a demo video:
 <img src = 'assets/screenshots/memorable.png' height='400'>
 </p>
 
+
+
+https://github.com/user-attachments/assets/bef487d8-ef33-4957-a22a-6788a96b98ff
+
+https://github.com/user-attachments/assets/5d258165-893d-45ce-aa21-a61368c3bd8c
+
+
+
 ## Libraries used:
 expo
 react-navigation/native
